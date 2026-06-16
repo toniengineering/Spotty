@@ -1,0 +1,1 @@
+SO this is spotty or yttops because i couldn't name it that in the spotify deleoper app. So spotty is supposed to be able to play songs and change the song based on what I listen to. It can also turn the volume up and down.
