@@ -1,6 +1,13 @@
-
+[Spotty-bom.csv](https://github.com/user-attachments/files/29025339/Spotty-bom.csv)
 SO this is spotty or yttops because i couldn't name it that in the spotify deleoper app. So spotty is supposed to be able to play songs and change the song based on what I listen to. It can also turn the volume up and down. I'm going to use it for when I out my phone away for work sessions to change the music Im listening to.
 <img width="915" height="656" alt="Screenshot 2026-06-15 231201" src="https://github.com/user-attachments/assets/bcf335d2-d5f6-49ca-8dc1-2128ac9cfce5" />
 <img width="630" height="568" alt="Screenshot 2026-06-15 235729" src="https://github.com/user-attachments/assets/5af56389-1881-4271-be2e-bf02b9e2199f" />
 <img width="632" height="433" alt="Screenshot 2026-06-15 235705" src="https://github.com/user-attachments/assets/f6f689a8-e373-4461-b6ad-c7da2e7a6635" />
 <img width="1919" height="1006" alt="Screenshot 2026-06-16 180928" src="https://github.com/user-attachments/assets/6f34f057-eecd-48ef-b1f8-9c4063af07bf" />
+
+BOM:
+[Uploading SpottName,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"key switches","To direct what i want to play on spotify",10,4.69,"https://www.amazon.com/BlingKingdom-Replacement-Mechanical-Keyboard-Dustproof/dp/B0DSHTPSL3/ref=sr_1_3?crid=32XETEJ0CC8BI&dib=eyJ2IjoiMSJ9.h3EsdIKQvZBD_PZLEwEVPPIFfw_IFOTT8mZfh9FOWdkfXBouaWjmNFUhRahkERMNuce6GDhq2dzPLlIAlKfb_rL_8V-f9t7BHU9hZG8sI57VOlOY8wyfHq3huNAxXHLxJGjdJ79auf9VNgeIx-EF4KWhVEcpYvEW2GthJooeOWvjTMTQ7jEeK_ygZrylzbM6k8x2oWkXKAWzYpzmwPYwkA-T1HUqN-4H_XSjaqk2-ic.Js8p0KljL-NTKcu_JAZ0nO55VZIfSW9OR-ToKobmwfk&dib_tag=se&keywords=cherry+mx+switches&qid=1781588297&sprefix=cherry+mx%2Caps%2C242&sr=8-3","Amazon"
+"Tft 1.8","to show the music off on spotify",1,9.99,"https://www.amazon.com/DSD-TECH-Display-Interface-Arduino/dp/B07WDJ3TV6/ref=sr_1_5_sspa?crid=3JOQY1G11IR1L&dib=eyJ2IjoiMSJ9.yjWzfQ8Ds2TY3Yl0yQAl8-71YYvDpNih_dEJhozvms4dKcbmpaMSy7To1c2Xf-80Ar5ciH5-Gx_0vsYvgiGwIQoTn6MJtrwcWh8PccTTrXgiIHQCorzhDZRzKXiF1vlgqh13wm0N-Q3cGzTQXNUrHciFXyk6hAWeXXpaBy6ghcB1lzv_f4JQRoLlGre01u-sZl2SujuTgF7lf-m6mu3q2R0yUSED7HV9sz03LGCvQ90.RlvUZMY46iqynNTmBNJFtKpCuwb2OeNqd07krEHpB0k&dib_tag=se&keywords=tft+1.8&qid=1781588209&sprefix=tft+1.8%2Caps%2C150&sr=8-5-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1","Amazon"
+"Esp32c3","Microcontroller",6,20.88,"https://www.amazon.com/Supermini-Development-Bluetooth-Microcontroller-Electronics/dp/B0GX98KRH5/ref=sr_1_1_sspa?crid=2V4DJDSD4QN6N&keywords=eps+32c3&qid=1781588145&sprefix=eps+32c3%2Caps%2C244&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1","Amazon"y-bom.csv…]()
+
